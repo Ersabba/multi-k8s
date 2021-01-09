@@ -18,7 +18,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Hello v2, it's the last day of the Year, and it's a beautiful day!!!!
+            Fib Calculator version Kubernetes!
           </a>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
